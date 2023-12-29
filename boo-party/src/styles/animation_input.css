@@ -1,0 +1,19 @@
+span{
+    transition: ease-in-out 0.2s;
+}
+input{
+    border: 1px solid black;
+    outline: 0;
+}
+input:focus{
+    outline: 0;
+    border: 1px solid #FFBB43;
+}
+input:focus ~ span,
+input:valid ~ span{
+    top: 0;
+    left: 10px;
+    background-color: #ffffff;
+    padding: 0px 3px 0px 3px;
+    color: #FFBB43;
+}
