@@ -1,4 +1,4 @@
-import qr_code from "../../../assets/img/qr_code.jpg"
+import qr_code from "../../../assets/img/qr_code.jpeg"
 
 export const Qr_Code = ()=>{
     return(
