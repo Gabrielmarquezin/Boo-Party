@@ -1,4 +1,4 @@
-import React, { DOMElement, useEffect, useRef, useState } from "react";
+import React, {useRef, useState } from "react";
 import { FaCloudUploadAlt } from "react-icons/fa";
 import { AiOutlineFilePdf, AiOutlineClose} from "react-icons/ai";
 

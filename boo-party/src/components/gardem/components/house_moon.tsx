@@ -1,4 +1,3 @@
-import React from "react";
 import house from "../../../assets/img/house.svg"
 import moon from "../../../assets/img/moon.svg"
 import morcego_front from "../../../assets/img/morcego_front.svg"

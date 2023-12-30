@@ -1,4 +1,3 @@
-import React from "react";
 import "../../../../styles/animation_input.css"
 
 type PropsInput = {

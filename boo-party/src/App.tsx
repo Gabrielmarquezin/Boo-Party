@@ -1,4 +1,3 @@
-import { Form } from './components/form/form'
 import { Footer } from './components/rodape/footer'
 import { Contatos } from './pages/contatos'
 import { Home } from './pages/home'

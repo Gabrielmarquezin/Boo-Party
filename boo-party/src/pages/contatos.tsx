@@ -1,4 +1,3 @@
-import React from "react";
 import { TextMain } from "../components/text/text_main";
 import { Title } from "../components/text/title";
 

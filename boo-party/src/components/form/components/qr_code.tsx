@@ -1,4 +1,3 @@
-import React from "react";
 import qr_code from "../../../assets/img/qr_code.jpg"
 
 export const Qr_Code = ()=>{

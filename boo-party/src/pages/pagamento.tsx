@@ -1,4 +1,4 @@
-import React, { DOMElement, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { TextMain } from "../components/text/text_main";
 import { Title } from "../components/text/title";
 import { getSheet } from "../utils/get_xlsx";
@@ -30,7 +30,7 @@ const Convidados = ()=>{
                 data.map((c: any[]) => c[0])
             )
         })
-        .catch(error => {
+        .catch(()=> {
             setConvidados([])
         })
     }, [])

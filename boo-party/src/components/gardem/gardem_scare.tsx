@@ -1,4 +1,3 @@
-import React from "react";
 import gardem from "../../assets/img/gardem.svg";
 import { HouseMoon } from "./components/house_moon";
 import { Tree } from "./components/tree";

@@ -1,5 +1,4 @@
 import React from "react";
-import { Gardem } from "../components/gardem/gardem_scare";
 import { Title } from "../components/text/title";
 import teia from "../assets/img/teia.svg";
 import { Menu } from "../components/menu/menu";

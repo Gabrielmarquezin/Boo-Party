@@ -1,4 +1,4 @@
-import React, { createContext, useEffect } from "react";
+import { createContext } from "react";
 import { WithLoading } from "../../HOC/withLoading";
 import { Input } from "./components/inputs/input";
 import { InputFile } from "./components/inputs/input_file";
