@@ -35,7 +35,7 @@ export const InputSubmit = ({name, id, value} :SubmitProps)=>{
                 sheetid: "1rgiZKv1Ei_RVRBy-peMXlTGegr_HcpneSg3hU5uuU1E",
                 data: [[nome, link]]
             }
-            const request = await fetch("http://localhost:3000/sheet/add", {
+            const request = await fetch("https://boo-party.vercel.app/sheet/add", {
                 method: "post",
                 headers: {
                     "Content-Type":"application/json"
