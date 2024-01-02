@@ -34,7 +34,7 @@ export const Home: React.FC = ()=>{
                           <span> no</span> 
                           <span className="text-halloween"> espaço do Romário </span> 
                           <span></span>no bairro do Conviver (Itapajé-CE)<br />
-                          <span className="text-halloween">02/10/20234</span>
+                          <span className="text-halloween">02/10/2023</span>
                       </p>
                       <button className="border-nonde text-comum text-[0.8rem] p-2 rounded-[20px] mt-[20px] bg-[#FFBB43]" onClick={handleNavigate}>CONFIRMAR PRESENÇA</button>
                   </div>
